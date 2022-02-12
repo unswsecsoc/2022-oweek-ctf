@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Better Admin Portal</title>
+</head>
+
+<body>
+    <form id="form" action='/' method="POST">
+        <h1>Better Admin Portal</h1>
+        <h4>Now with 2 factor authentication!</h4>
+        <input type="password" name="password">
+        <button type="submit" id="submit">Log In</button>
+        {% if error %}
+            <br>
+            <div class="alert alert-danger">{{ error }}</div>
+        {% endif %}
+    </form>
+</body>
+
+</html>
+
+<style>
+    @import url("https://www.abiram.me/assets/fonts/fonts.css");
+
+    html, body {
+        background: #151515;
+        color: #fbfbfb;
+        font-family: 'Metropolis', sans-serif;
+        padding: 30px 0;
+        text-align: center;
+    }
+
+    h1 {
+        font-weight: bolder;
+    }
+
+    .container {
+        width: 95%;
+        max-width: 1348px;
+        margin: 0 auto;
+    }
+
+    /* yoinked from bootstrap */
+
+    .alert {
+        position: relative;
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 1rem;
+        border: 1px solid transparent;
+        border-radius: 0.25rem;
+        display: inline-block;
+    }
+
+    .alert-danger {
+        color: #721c24;
+        background-color: #f8d7da;
+        border-color: #f5c6cb;
+    }
+
+    form {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+
+    input {
+        margin: 3px 0;
+        font-family: inherit;
+        font-size: inherit;
+        line-height: 1.5em;
+        overflow: visible;
+        border-radius: 5px;
+    }
+
+    label {
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    button {
+        border-radius: 5px;
+        margin: 15px 0;
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+        overflow: visible;
+        text-transform: none;
+        -webkit-appearance: button;
+        background-color: #363d42 !important;
+        color: white;
+        border: none;
+        padding: 10px;
+    }
+
+
+    button:not(:disabled) {
+        cursor: pointer;
+    }
+
+    button:focus, button:hover {
+        background-color: #1d2124 !important;
+    }
+
+    button:focus {
+        outline: 1px dotted;
+        outline: 5px auto -webkit-focus-ring-color;
+    }
+</style>
