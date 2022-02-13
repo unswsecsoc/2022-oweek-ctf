@@ -1,49 +1,31 @@
-# Title
+# SecSoc Is Delightful
 
 ## Authors
-- @handle
+- @abiramen
 
 ## Category
-- Reversing
-- Web
-- Binary Exploit
-- Reversing
-- Crypto
-- Misc
 - Recon
-- Forensics
+
 
 ## Description
-[insert challenge desc]
+again, you should visit our O-Week stall for this one. we're located opposite the red centre from 10am to 3:30pm on Monday, Tuesday and Thursday.
+
+Our marvellous, magnificent, splendid, fantastic, fabulous, out-of-this-world O-Week stall has a hotspot, but not the COVID kind.
 
 ## Difficulty
 - Easy
-- Medium
-- Hard
+
 
 ## Points
-000
-
-## Hints
-1. ...
-1. ...
-
-## Files
-- filename: description
-
-Try include a link to the file where possible (such as within a repo).
+50
 
 ## Solution
 <details>
 <summary>Spoiler</summary>
 
-### Idea
-...
-
 ### Walkthrough
-1. ...
-1. ...
+Identify that this is referring to a WiFi hotspot, and search for nearby WiFi networks at the stall.
 
 ### Flag
-`OWEEK{...}`
+`OWEEK{its.in.the.air.around.you}`
 </details>
