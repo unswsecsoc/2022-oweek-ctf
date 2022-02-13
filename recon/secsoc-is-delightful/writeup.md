@@ -1,7 +1,7 @@
-# Title
+# SecSoc Is Delightful
 
 ## Authors
-- @joooooooooooooooooooooooooooooooooooosh
+- @abiramen
 
 ## Category
 - Recon

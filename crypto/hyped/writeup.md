@@ -1,49 +1,36 @@
-# Title
+# hyped!
 
 ## Authors
-- @handle
+- @abiramen
 
 ## Category
-- Reversing
-- Web
-- Binary Exploit
-- Reversing
 - Crypto
-- Misc
-- Recon
-- Forensics
 
 ## Description
-[insert challenge desc]
+I'm quite hyped! Want to know why?
+
+You'll have to decode this substitution cipher first.
+
+[link](https://nsa-crypto.xurt.is/?salt=99acfb1e1cbbeb2e&message=B+NK+AZZFBHJ+RZLONLX+MZ+MTP+DPJBHHPL+RLBPHXAW+USZHPU+UPSVLBMW+SZHRPLPHSP&hash=d317dfd3011a01b83586d17fe4d9fb35ce1dcc288d84f5d74d758bd57c269e00)
+
+**Format**: Paste your answer as-is. You can ignore the `OWEEK{}`.
 
 ## Difficulty
 - Easy
-- Medium
-- Hard
 
 ## Points
-000
-
-## Hints
-1. ...
-1. ...
-
-## Files
-- filename: description
-
-Try include a link to the file where possible (such as within a repo).
+40
 
 ## Solution
 <details>
 <summary>Spoiler</summary>
 
 ### Idea
-...
+Solving a substitution cipher.
 
 ### Walkthrough
-1. ...
-1. ...
+Use classic substitution cipher solving techniques, or google for a solver (boring).
 
 ### Flag
-`OWEEK{...}`
+`I am looking forward to the beginner friendly scones security conference`
 </details>

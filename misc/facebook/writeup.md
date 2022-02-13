@@ -1,49 +1,27 @@
-# Title
+# facebook
 
 ## Authors
-- @handle
+- @abiramen
 
 ## Category
-- Reversing
-- Web
-- Binary Exploit
-- Reversing
-- Crypto
 - Misc
-- Recon
-- Forensics
 
 ## Description
-[insert challenge desc]
+I hear that SecSoc publishes cool events on their [Facebook page](https://secso.cc/fb-page) and [Facebook group](https://secso.cc/fb-group) sometimes.
 
 ## Difficulty
 - Easy
-- Medium
-- Hard
 
 ## Points
-000
-
-## Hints
-1. ...
-1. ...
-
-## Files
-- filename: description
-
-Try include a link to the file where possible (such as within a repo).
+15
 
 ## Solution
 <details>
 <summary>Spoiler</summary>
 
-### Idea
-...
-
 ### Walkthrough
-1. ...
-1. ...
+Find the event for our O-Week events on Facebook.
 
 ### Flag
-`OWEEK{...}`
+`OWEEK{th3re_w!LL_bE_a_cTF}`
 </details>
