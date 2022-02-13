@@ -1,49 +1,28 @@
 # Title
 
 ## Authors
-- @handle
+- @joooooooooooooooooooooooooooooooooooosh
 
 ## Category
-- Reversing
-- Web
-- Binary Exploit
-- Reversing
-- Crypto
 - Misc
-- Recon
-- Forensics
 
 ## Description
-[insert challenge desc]
+you should visit our O-Week stall! we're located opposite the red centre from 10am to 3:30pm on Monday, Tuesday and Thursday.
 
 ## Difficulty
 - Easy
-- Medium
-- Hard
 
 ## Points
-000
-
-## Hints
-1. ...
-1. ...
-
-## Files
-- filename: description
-
-Try include a link to the file where possible (such as within a repo).
+15
 
 ## Solution
 <details>
 <summary>Spoiler</summary>
 
-### Idea
-...
-
 ### Walkthrough
-1. ...
-1. ...
+1. Go to O-Week and visit the SecSoc stall! (not that it's up anymore by the time you read this)
+2. We had a poster at the stall with the flag on it for anyone who was paying close enough attention
 
 ### Flag
-`OWEEK{...}`
+`OWEEK{thanks.for.stopping.by}`
 </details>
